@@ -2,6 +2,8 @@
 
 Everything about the self-hosted apps running on the homelab. Each app has its own folder with a README, user manual, maintenance runbook, and reference configs.
 
+**On this page:** [Quick access](#quick-access) · [Apps](#apps) · [How this docs site works](#how-this-docs-site-works)
+
 ## Quick access
 
 - 📸 [Immich — photos](https://immich.stoat-perch.ts.net ':target=_blank')
