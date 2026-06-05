@@ -14,6 +14,7 @@ Everything about the self-hosted apps running on the homelab. Each app has its o
 - ⏰ [Reminders — expiry tracker](https://reminders.stoat-perch.ts.net ':target=_blank')
 - 📧 [Email × Company Matrix](https://emailmatrix.stoat-perch.ts.net ':target=_blank')
 - 🎞 [Moviesda scraper](https://movies.stoat-perch.ts.net ':target=_blank')
+- 🍿 [Radarr — movie automation (arrstack)](https://radarr.stoat-perch.ts.net ':target=_blank')
 - 📊 [Grafana — monitoring](https://grafana.stoat-perch.ts.net ':target=_blank')
 - 🗄 [Storage Console — tiering & backup](https://tier.stoat-perch.ts.net ':target=_blank')
 - 📖 [Docs site](https://docs.stoat-perch.ts.net ':target=_blank')
