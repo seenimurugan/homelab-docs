@@ -4,6 +4,7 @@
   * [Overview](/homelab-k8s-setup/README.md)
   * [Maintenance](/homelab-k8s-setup/MAINTENANCE.md)
   * [Add a new app](/homelab-k8s-setup/ADD-NEW-APP.md)
+  * [Backups & disaster recovery](/homelab-k8s-setup/BACKUP.md)
   * [HDD recovery (when disk vanishes)](/homelab-k8s-setup/HDD-RECOVERY.md)
   * [Keep Mac always-on (no sleep)](/homelab-k8s-setup/MAC-ALWAYS-ON.md)
   * [Databases (SQLite vs Postgres)](/homelab-k8s-setup/DATABASES.md)
