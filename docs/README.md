@@ -17,6 +17,7 @@ Everything about the self-hosted apps running on the homelab. Each app has its o
 - 🍿 [Radarr — movie automation (arrstack)](https://radarr.stoat-perch.ts.net ':target=_blank')
 - 📊 [Grafana — monitoring](https://grafana.stoat-perch.ts.net ':target=_blank')
 - 🗄 [Storage Console — tiering & backup](https://tier.stoat-perch.ts.net ':target=_blank')
+- 📈 Umami — analytics dashboard: https://umami.stoat-perch.ts.net *(tailnet-only — not public)*
 - 📖 [Docs site](https://docs.stoat-perch.ts.net ':target=_blank')
 
 ## Apps
@@ -38,6 +39,7 @@ Everything about the self-hosted apps running on the homelab. Each app has its o
 | [Shared Postgres](/shared-postgres/docs/README.md) | PostgreSQL 17 StatefulSet shared by all custom apps — each app gets its own DB and user |
 | [Storage Console](/storage-console/docs/README.md) | Dashboard for HDD storage tiering and Immich backup — Auto/Manual toggles and Trigger-Now controls |
 | [Tailscale Operator](/tailscale-operator/docs/README.md) | Kubernetes operator giving every cluster Ingress a `*.stoat-perch.ts.net` hostname with auto-HTTPS |
+| [Umami](/umami/docs/README.md) | Privacy-friendly analytics dashboard — tracks public Funnel app usage; **tailnet-only** (not a public URL) |
 
 ## How this docs site works
 
